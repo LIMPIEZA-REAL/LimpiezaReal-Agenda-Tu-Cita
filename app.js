@@ -17,7 +17,7 @@
 
 /* ---------------- Configuration ---------------- */
 const SERVICES_PER_PAGE = 6;
-const API_URL = "https://script.google.com/macros/s/AKfycbzw9LjJ-tfxEBsMQVAngU8RY1YM5p4BYkdbWdhU_jdPFJsbM1j5tMyWJzrGn0qEvr2r/exec";
+const API_URL = "https://script.google.com/macros/s/AKfycbw_zrY65_Y9FiYfLQdELnSu3U0RKuUGgNBZx7kD8hYkFrisaaDyw_1cPIh0eWRnypNP/exec";
 
 /* ---------------- New Categories ---------------- */
 const CATEGORIES = [
@@ -98,7 +98,7 @@ const services = [
 // ];
 
 const collaborators = [
-  { id:'c1', name:'Leo P', avatar:'images/barbero1.png' }
+  { id:'c1', name:'Leonardo Caballero', avatar:'images/barbero1.png' }
 ];
 
 /* ---------------- Helpers ---------------- */
